@@ -1,5 +1,5 @@
 {
-    "name": "mfmdevsystem/react.socket",
+    "name": "mfmdevsystem/react-socket",
     "description": "Async, streaming plaintext TCP/IP and secure TLS socket server and client connections for ReactPHP",
     "keywords": ["async", "socket", "stream", "connection", "ReactPHP"],
     "license": "MIT",
@@ -35,7 +35,7 @@
         "react/dns": "^1.13",
         "react/event-loop": "^1.2",
         "react/promise": "^3.2 || ^2.6 || ^1.2.1",
-        "mfmdevsystem/react.socket": "^1.4"
+        "mfmdevsystem/react-socket": "^1.4"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.6 || ^5.7 || ^4.8.36",
