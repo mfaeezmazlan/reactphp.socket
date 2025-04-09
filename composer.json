@@ -1,5 +1,5 @@
 {
-    "name": "react/socket",
+    "name": "mfmdevsystem/react.socket",
     "description": "Async, streaming plaintext TCP/IP and secure TLS socket server and client connections for ReactPHP",
     "keywords": ["async", "socket", "stream", "connection", "ReactPHP"],
     "license": "MIT",
@@ -23,6 +23,10 @@
             "name": "Chris Boden",
             "homepage": "https://cboden.dev/",
             "email": "cboden@gmail.com"
+        },
+        {
+            "name": "Mohamad Faeez",
+            "email": "faeez@maximumbuilders.my"
         }
     ],
     "require": {
